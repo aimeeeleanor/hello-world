@@ -1,0 +1,43 @@
+body {color: rgb(0,0,233);font-family: arial;}
+body {
+  background-color: pink;
+}
+h1, h2 {
+  color: pink;
+  margin: 10px;
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
+img {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 130px;
+}
+div {
+  min-height: 50vh;
+  width: 100vw;
+}
+a {
+  color: yellow;
+}
+li {
+  color: yellow;
+}
+li#lower {
+  margin-top: 7%;
+}
+li#lowest {
+  margin-top: 14%;
+}
+div.contrast {
+  background-color: white;
+}
+div.contrast {
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
